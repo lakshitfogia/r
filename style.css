@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    margin:0px
+}
+
+p {
+    color: black;
+    font-size: 3em;
+    font-family:fantasy;
+}
+
+#txt1 {
+    color: black;
+    font-size: 1.5em;
+    font-family:fantasy;
+}
+
+#solid {
+    height: 220px;
+}
